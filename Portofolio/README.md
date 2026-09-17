@@ -10,3 +10,6 @@
 ### MSc Thesis:
 * My master`s thesis focused on estimating the slip deficit on the East Anatolia Fault Zone using data assimilation combined with a half-space elastic model by Savage and Buford (1970) with GNSS dataset from Kurt et al(2022). The estimated slip deficit was then used to gain insight into how strain accumulates and is distributed along the fault zone. The results can contribute to a better understanding of the region’s seismic hazard and support local authorities and communities in assessing and mitigating potential earthquake risks and future disasters.
 * The original MSc thesis file is approximately 225 MB, which exceeds GitHub’s file size limit. Therefore, the uploaded version has been significantly compressed, and some images may not be displayed clearly.
+
+* The link to my MSc thesis code is here https://github.com/fafalumaksono/Msc-Thesis
+
